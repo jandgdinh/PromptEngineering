@@ -18,7 +18,7 @@
   git clone https://github.com/jandgdinh/PromptEngineering.git
 
   ## Usage
-  Create a post request at http://localhost:3001/forecast
+  Create a post request at http://localhost:3001/forecast with 'thunderclient' after running npm run start
 
   ## License
 
